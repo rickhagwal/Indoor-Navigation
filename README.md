@@ -1,5 +1,11 @@
-# Indoor-Navigation
-Computer Vision: Indoor Navigation for visually impaired people in real-time environment
+# Indoor-Navigation for low vision people
+
+•	Trained and deployed an LSTM based Deep Learning convolutional neural network on 1000 videos dataset, to classify doors and stairs in indoors, with less than 0.01% error, using Python, MobileNetv2, TensorFlow, Keras, Tensorboard, CNN, Google Cloud Platform (GCP), sklearn etc.
+
+•	Group Members: Richa Khagwal, Subhangi Asati, Maithri Chulikana
+
+•	Steps involved-
+
 
 ## Step 1: Building and Training model-
 
