@@ -6,7 +6,6 @@
 
 http://csweb01.csueastbay.edu/~mi7383/CS663/home.html
 
-•	Group Members: Richa Khagwal, Subhangi Asati, Maithri Chulikana
 
 •	Steps involved in actual implementation-
 
