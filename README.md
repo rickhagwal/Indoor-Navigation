@@ -2,9 +2,13 @@
 
 •	Trained and deployed an LSTM based Deep Learning convolutional neural network on 1000 videos dataset, to classify doors and stairs in indoors, with less than 0.01% error, using Python, MobileNetv2, TensorFlow, TensorFlow Lite, Keras, Tensorboard, CNN, Google Cloud Platform (GCP), sklearn etc.
 
-•	Project Layout-
+#Group Project by- Subhangi Asati, Richa Khagwal, Maitri Chullikana
 
-http://csweb01.csueastbay.edu/~mi7383/CS663/home.html
+## Demo Results-
+
+https://www.youtube.com/watch?v=UlA3ekc-VNQ
+
+https://www.youtube.com/watch?v=t2MwlH0lGy4&feature=youtu.be
 
 
 •	Steps involved in actual implementation-
