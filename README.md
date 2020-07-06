@@ -14,7 +14,6 @@ http://csweb01.csueastbay.edu/~mi7383/CS663/home.html
 
 #### Tensorboard results-
 
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step19.PNG)
 
 ![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step191.PNG)
 
@@ -32,7 +31,7 @@ http://csweb01.csueastbay.edu/~mi7383/CS663/home.html
 
 ## Step 3: Batch Prediction-
 
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step31.PNG)
+Created MobileNetv2 Feature Extraction Model, and generated .npy file from video files-
 
 ![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step32.PNG)
 
