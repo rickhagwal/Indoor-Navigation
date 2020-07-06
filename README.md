@@ -12,21 +12,7 @@ http://csweb01.csueastbay.edu/~mi7383/CS663/home.html
 
 ## Step 1: Building and Training model-
 
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step11.PNG)
-
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step12.PNG)
-
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step13.PNG)
-
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step14.PNG)
-
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step15.PNG)
-
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step16.PNG)
-
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step17.PNG)
-
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step18.PNG)
+#### Tensorboard results-
 
 ![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step19.PNG)
 
@@ -38,11 +24,7 @@ http://csweb01.csueastbay.edu/~mi7383/CS663/home.html
 
 - Sampling the video: We don’t process every frame, we define a frame generator to create certain sequence length as 40 samples and load the dataset & specify output frames.
 
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step21.PNG)
-
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step22.PNG)
-
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step23.PNG)
+- Used CNN model MobileNet for feature extraction.
 
 - Extracting Features using MobileNetv2-
 
@@ -54,7 +36,6 @@ http://csweb01.csueastbay.edu/~mi7383/CS663/home.html
 
 ![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step32.PNG)
 
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step33.PNG)
 
 ![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step34.PNG)
 
