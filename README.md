@@ -33,30 +33,15 @@ http://csweb01.csueastbay.edu/~mi7383/CS663/home.html
 
 Created MobileNetv2 Feature Extraction Model, and generated .npy file from video files-
 
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step32.PNG)
+![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step32--.PNG)
 
 
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step34.PNG)
+![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step34--.PNG)
 
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step35.PNG)
+![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step35--.PNG)
 
 Step 4: Live Predictions-
 
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step41.PNG)
-
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step42.PNG)
-
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step43.PNG)
-
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step44.PNG)
-
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step45.PNG)
-
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step46.PNG)
-
-![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step47.PNG)
-
--Screenshots of the LiveCaptureResults:
 
 ![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step48.PNG)
 
