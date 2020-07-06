@@ -44,7 +44,7 @@ Created MobileNetv2 Feature Extraction Model, and generated .npy file from video
 
 ![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step35--.PNG)
 
-Step 4: Live Predictions-
+## Step 4: Live Predictions-
 
 
 ![alt text](https://github.com/rickhagwal/Indoor-Navigation/blob/master/images/step48.PNG)
