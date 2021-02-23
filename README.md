@@ -1,5 +1,7 @@
 # Indoor-Navigation for low vision people
 
+## Group Project By- Subhangi Asati, Maithri Ch, and Richa Khagwal 
+
 •	Trained and deployed an LSTM based Deep Learning convolutional neural network on 1000 videos dataset, to classify doors and stairs in indoors, with less than 0.01% error, using Python, Inception v3, TensorFlow, TensorFlow Lite, Keras, Tensorboard, CNN, Google Cloud Platform (GCP), Scikit-learn, Pandas, Numpy etc.
 
 
